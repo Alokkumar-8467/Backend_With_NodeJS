@@ -52,3 +52,4 @@ ALOK
 
 # Navigating the File System(cd)
 
+![alt text](image.png)
