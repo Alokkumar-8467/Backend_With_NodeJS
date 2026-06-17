@@ -51,8 +51,8 @@ ALOK
 
 
 # Navigating the File System(cd)
+#### We navigate in D drive so we reached up to ```/d``` means root directory
 ```
-
 ALOK@DESKTOP-D41A0U8 MINGW64 /d/Complete_Backend_With_NodeJS/002_Basics_Of_Terminal/01_Introduction_To_Terminal
 · $ cd .. /
 
@@ -64,4 +64,30 @@ ALOK@DESKTOP-D41A0U8 MINGW64 /d/Complete_Backend_With_NodeJS
 
 ALOK@DESKTOP-D41A0U8 MINGW64 /d
 . $ cd .. /
+```
+
+Now see ```/``` is our root directory
+
+#### But in this we navigate in ```/c``` directory that why we get ```~``` means Home Directory and ```/``` means Root Directory. 
+
+```
+ALOK@DESKTOP-D41A0U8 MINGW64 ~
+$ git -v
+git version 2.54.0.windows.1
+
+ALOK@DESKTOP-D41A0U8 MINGW64 ~
+$ cd ../
+
+ALOK@DESKTOP-D41A0U8 MINGW64 /c/Users
+$ cd ../
+
+ALOK@DESKTOP-D41A0U8 MINGW64 /c
+$ cd ../
+
+ALOK@DESKTOP-D41A0U8 MINGW64 /
+$ cd ../
+
+ALOK@DESKTOP-D41A0U8 MINGW64 /
+$
+
 ```
