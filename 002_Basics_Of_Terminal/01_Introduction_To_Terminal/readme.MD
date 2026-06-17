@@ -3,12 +3,14 @@ $ echo
 
 // echo same as console.log()
 
+### Print anyThing in Bash user "echo"
 ```
 ALOK@DESKTOP-D41A0U8 MINGW64 /d/Complete_Backend_With_NodeJS/002_Basics_Of_Terminal
 $ echo kola
 kola
 ```
 
+### Declare Variable in Bash
 ```
 ALOK@DESKTOP-D41A0U8 MINGW64 /d/Complete_Backend_With_NodeJS/002_Basics_Of_Terminal
 $ num=12
@@ -30,7 +32,7 @@ End
 ```
 
 
-// To Check Current Directory use "pwd"
+### To Check Current Directory use "pwd"
 ```
 ALOK@DESKTOP-D41A0U8 MINGW64 /d/Complete_Backend_With_NodeJS/002_Basics_Of_Terminal/01_Introduction_To_Terminal
 $ pwd
@@ -38,7 +40,7 @@ $ pwd
 ```
 
 
-// To Know Current user "whoami"
+### To Know Current user "whoami"
 ```
 ALOK@DESKTOP-D41A0U8 MINGW64 /d/Complete_Backend_With_NodeJS/002_Basics_Of_Terminal/01_Introduction_To_Terminal
 $ whoami
