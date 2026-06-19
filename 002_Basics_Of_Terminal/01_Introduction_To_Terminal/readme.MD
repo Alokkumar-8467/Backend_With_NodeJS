@@ -42,7 +42,6 @@ $ pwd
 /d/Complete_Backend_With_NodeJS/002_Basics_Of_Terminal/01_Introduction_To_Terminal
 ```
 
-
 ### To Know Current user "whoami"
 ```
 ALOK@DESKTOP-D41A0U8 MINGW64 /d/Complete_Backend_With_NodeJS/002_Basics_Of_Terminal/01_Introduction_To_Terminal
@@ -92,3 +91,5 @@ ALOK@DESKTOP-D41A0U8 MINGW64 /
 $
 
 ```
+
+## Symbolic link when we type ls command in bash terminal.
