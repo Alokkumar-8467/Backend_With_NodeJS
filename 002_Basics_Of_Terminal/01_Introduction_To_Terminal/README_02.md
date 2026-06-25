@@ -29,4 +29,5 @@ $ mkdir src_1 src_2 src_3 src_4
 ALOK@DESKTOP-D41A0U8 MINGW64 /d/Complete_Backend_With_NodeJS/002_Basics_Of_Terminal/01_Introduction_To_Terminal
 $ cp .env src
 ```
+##### cp means copy path 
 
