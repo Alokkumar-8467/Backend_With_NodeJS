@@ -20,6 +20,7 @@ ALOK@DESKTOP-D41A0U8 MINGW64 /d/Complete_Backend_With_NodeJS/002_Basics_Of_Termi
 $ mkdir src
 ```
 
+## Creating mutiple directory (folder) in one time use ``` mkdir folder_name folder_name folder_name folder_name ```
 ```
 ALOK@DESKTOP-D41A0U8 MINGW64 /d/Complete_Backend_With_NodeJS/002_Basics_Of_Terminal/01_Introduction_To_Terminal
 $ mkdir src_1 src_2 src_3 src_4
