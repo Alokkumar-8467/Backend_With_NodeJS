@@ -105,4 +105,5 @@ ALOK@DESKTOP-D41A0U8 MINGW64 /
 $ 
 ```
 
-#### Symbolic link when we type ls command in bash terminal.
+#### Symbolic link appear when we type ls command in bash terminal represented by (@).
+We Learn Symbolic Links in details in Operating System.
