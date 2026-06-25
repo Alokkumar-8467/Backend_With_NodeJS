@@ -7,3 +7,4 @@ $ touch style.css
 ```
 ### Creating mutiple file in one time ``` touch file_name file_name file_name file_name ```
 
+``` ```
