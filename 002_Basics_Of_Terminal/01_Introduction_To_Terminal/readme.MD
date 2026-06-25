@@ -119,3 +119,13 @@ $ ls -a
 
 ## We also have one more command ``` ls -la ```
 
+
+ALOK@DESKTOP-D41A0U8 MINGW64 /d/Complete_Backend_With_NodeJS/002_Basics_Of_Terminal/01_Introduction_To_Terminal
+$  ls -la
+total 42
+drwxr-xr-x 1 ALOK 197609     0 Jun 25 22:26 ./
+drwxr-xr-x 1 ALOK 197609     0 Jun 17 22:55 ../
+-rw-r--r-- 1 ALOK 197609    27 Jun 25 22:26 .env
+-rw-r--r-- 1 ALOK 197609 36645 Jun 17 23:31 image.png
+-rw-r--r-- 1 ALOK 197609  2972 Jun 25 22:30 readme.MD
+-rw-r--r-- 1 ALOK 197609    44 Jun 17 23:06 test.sh
