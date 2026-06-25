@@ -11,3 +11,4 @@ $ touch style.css
 ALOK@DESKTOP-D41A0U8 MINGW64 /d/Complete_Backend_With_NodeJS/002_Basics_Of_Terminal/01_Introduction_To_Terminal
 $ touch scripy.js page.tsx page.jsx
 ```
+#### We can't create a directory (Folder) by using ``` touch ``` command
