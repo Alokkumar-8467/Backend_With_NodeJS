@@ -110,3 +110,9 @@ We Learn Symbolic Links in details in Operating System.
 
 ### We represent hidden by writing .env as we now.
 So to view all files such as hidden files we need to use ``` ls -a ``` 
+
+```
+ALOK@DESKTOP-D41A0U8 MINGW64 /d/Complete_Backend_With_NodeJS/002_Basics_Of_Terminal/01_Introduction_To_Terminal
+$ ls -a
+./  ../  .env  image.png  readme.MD  test.sh
+```
