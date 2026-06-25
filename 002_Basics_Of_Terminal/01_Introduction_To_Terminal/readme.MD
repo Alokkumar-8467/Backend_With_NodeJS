@@ -94,4 +94,6 @@ $
 
 ## Symbolic link when we type ls command in bash terminal.
 
+## Listing Directory Contents(ls)
+
 
