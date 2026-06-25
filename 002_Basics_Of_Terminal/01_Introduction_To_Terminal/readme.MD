@@ -107,3 +107,6 @@ $
 
 #### Symbolic link appear when we type ls command in bash terminal represented by (@).
 We Learn Symbolic Links in details in Operating System.
+
+### We represent hidden by writing .env as we now.
+So to view all files such as hidden files we need to use ``` ls -a ``` 
