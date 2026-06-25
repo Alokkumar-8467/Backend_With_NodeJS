@@ -117,4 +117,5 @@ $ ls -a
 ./  ../  .env  image.png  readme.MD  test.sh
 ```
 
+## We also have one more command ``` ls -la ```
 
