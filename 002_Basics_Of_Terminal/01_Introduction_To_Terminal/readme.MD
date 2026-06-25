@@ -92,8 +92,17 @@ $
 
 ```
 
-## Symbolic link when we type ls command in bash terminal.
-
 ## Listing Directory Contents(ls)
 
+```
+ALOK@DESKTOP-D41A0U8 MINGW64 /
+$ ls
+bin/  etc/           LICENSE.txt  ReleaseNotes.html  unins001.exe*
+cmd/  git-bash.exe*  mingw64/     tmp/               unins001.msg
+dev/  git-cmd.exe*   proc/        unins001.dat       usr/
 
+ALOK@DESKTOP-D41A0U8 MINGW64 /
+$ 
+```
+
+#### Symbolic link when we type ls command in bash terminal.
