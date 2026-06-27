@@ -12,6 +12,7 @@ $ echo kola
 kola
 ```
 
+
 ### Declare Variable in Bash
 ```
 ALOK@DESKTOP-D41A0U8 MINGW64 /d/Complete_Backend_With_NodeJS/002_Basics_Of_Terminal
