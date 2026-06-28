@@ -1,4 +1,4 @@
-# Basic Shell Commands (echo, pwd, whoami)
+# Basic Shell Commands (echo, pwd, whoami) 
 
 ALOK@DESKTOP-D41A0U8 MINGW64 /d/Complete_Backend_With_NodeJS/002_Basics_Of_Terminal
 $ echo
