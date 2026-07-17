@@ -134,7 +134,7 @@ drwxr-xr-x 1 ALOK 197609     0 Jun 17 22:55 ../
 ```
 
 
-# Creating, Copying, Moving, Deleting and Renaming Files and Directories (touch, mkdir, cp, mv, rm, rmdir)
+# 5. Creating, Copying, Moving, Deleting and Renaming Files and Directories (touch, mkdir, cp, mv, rm, rmdir)
 
 ## 1. Creating Files by using ``` touch file_name ```
 ```
