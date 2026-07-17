@@ -131,3 +131,39 @@ drwxr-xr-x 1 ALOK 197609     0 Jun 17 22:55 ../
 -rw-r--r-- 1 ALOK 197609    44 Jun 17 23:06 test.sh
 ```
 
+
+# Creating, Copying, Moving, Deleting and Renaming Files and Directories (touch, mkdir, cp, mv, rm, rmdir)
+
+## 1. Creating Files by using ``` touch file_name ```
+```
+ALOK@DESKTOP-D41A0U8 MINGW64 /d/Complete_Backend_With_NodeJS/002_Basics_Of_Terminal/01_Introduction_To_Terminal
+$ touch style.css
+```
+### Creating mutiple file in one time ``` touch file_name file_name file_name file_name ```
+
+```
+ALOK@DESKTOP-D41A0U8 MINGW64 /d/Complete_Backend_With_NodeJS/002_Basics_Of_Terminal/01_Introduction_To_Terminal
+$ touch scripy.js page.tsx page.jsx
+```
+#### We can't create a directory (Folder) by using ``` touch ``` command
+
+## 2. Create Directory we need to use ``` mkdir ``` Command
+```
+ALOK@DESKTOP-D41A0U8 MINGW64 /d/Complete_Backend_With_NodeJS/002_Basics_Of_Terminal/01_Introduction_To_Terminal
+$ mkdir src
+```
+
+## Creating mutiple directory (folder) in one time use ``` mkdir folder_name folder_name folder_name folder_name ```
+```
+ALOK@DESKTOP-D41A0U8 MINGW64 /d/Complete_Backend_With_NodeJS/002_Basics_Of_Terminal/01_Introduction_To_Terminal
+$ mkdir src_1 src_2 src_3 src_4
+```
+## 3. copying file from one directory (folder) to another directory
+```
+ALOK@DESKTOP-D41A0U8 MINGW64 /d/Complete_Backend_With_NodeJS/002_Basics_Of_Terminal/01_Introduction_To_Terminal
+$ cp .env src
+```
+##### cp means copy path 
+
+
+
