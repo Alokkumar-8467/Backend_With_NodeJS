@@ -1,6 +1,6 @@
-# Introduction to Terminal and Shell
+# 1. Introduction to Terminal and Shell
 
-# Basic Shell Commands (echo, pwd, whoami) 
+# 2. Basic Shell Commands (echo, pwd, whoami) 
 
 ALOK@DESKTOP-D41A0U8 MINGW64 /d/Complete_Backend_With_NodeJS/002_Basics_Of_Terminal
 $ echo
