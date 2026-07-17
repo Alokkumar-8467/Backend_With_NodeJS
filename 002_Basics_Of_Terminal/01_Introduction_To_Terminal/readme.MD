@@ -52,7 +52,7 @@ ALOK
 ```
 
 
-# Navigating the File System(cd)
+# 3. Navigating the File System(cd)
 #### We navigate in D drive so we reached up to ```/d``` means root directory
 ```
 ALOK@DESKTOP-D41A0U8 MINGW64 /d/Complete_Backend_With_NodeJS/002_Basics_Of_Terminal/01_Introduction_To_Terminal
