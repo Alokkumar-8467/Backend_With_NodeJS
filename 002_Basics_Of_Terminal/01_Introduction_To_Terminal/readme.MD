@@ -94,7 +94,7 @@ $
 
 ```
 
-## 4. Listing Directory Contents(ls)
+# 4. Listing Directory Contents(ls)
 
 ```
 ALOK@DESKTOP-D41A0U8 MINGW64 /
