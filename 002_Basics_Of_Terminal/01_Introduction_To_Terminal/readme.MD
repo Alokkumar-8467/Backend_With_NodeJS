@@ -167,5 +167,4 @@ $ cp .env src
 ```
 **cp means copy path** 
 
-
-
+## 4. move file from one directory (folder) to another directory
