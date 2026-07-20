@@ -30,6 +30,7 @@ $ echo $num
 <!-- We can use .sh file so some task which take more than one line. -->
 
 ```
+
 ALOK@DESKTOP-D41A0U8 MINGW64 /d/Complete_Backend_With_NodeJS/002_Basics_Of_Terminal/01_Introduction_To_Terminal
 $ ./test.sh
 10
